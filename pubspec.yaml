@@ -18,12 +18,11 @@ dependencies:
   video_player: ^2.3.10
   get: ^4.6.1  # for state management and navigation
   flutter_bloc: ^8.1.3
-  firebase_core: ^2.21.0
-  firebase_auth: ^4.12.1
-  cloud_firestore: ^4.12.2
-
-  
-
+  # firebase_core: ^1.12.0 
+  # firebase_auth: ^4.12.1
+  # cloud_firestore: ^4.12.2
+  flutter_riverpod: ^2.4.5
+  go_router: ^12.1.0
   cupertino_icons: ^1.0.2
   animated_splash_screen: ^1.3.0
   connectivity_plus: ^5.0.1
@@ -33,6 +32,7 @@ dependencies:
   fluttertoast: ^8.2.2
   auth_code_textfield: ^2.0.7
   formz: ^0.6.1
+  auth_service: ^0.0.2
   # amplify_flutter: ^0.5.1
   email_validator: ^2.1.17
   

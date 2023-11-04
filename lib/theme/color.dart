@@ -10,4 +10,7 @@ class AppColors {
       Color(0xFF5265A3); // Replace with your hex color value
   static const Color textColorSecondary = Color(0xFF5265A3);
   static const Color googleButtonColor = Color(0xFFDCE8FF);
+  // static const backgroundColor = Color(0xFF17171f);
+  static const primaryColor = Color(0xFF39ffc4);
+  static const color = Colors.white;
 }
